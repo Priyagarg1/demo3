@@ -26,12 +26,14 @@ CodeChef also partners with schools, colleges, and student groups to create loca
   <h3>Leet Code</h3>
   <img src="https://user-images.githubusercontent.com/89633235/131211448-9d2b8627-b5f6-4ebb-a7ef-8f058924a500.png"/>
   <p>LeetCode is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions. It has over 1,100 different problems, support for over 18 programming languages, and an active community that is always there to help you with the solutions you come up with. If your intention is to hone your coding skills, then this online judge platform is one of the best that you can use.</p>
-  <a href="https://leetcode.com/">To know more click here</a>
+  <p>To know more...</p>
+  <a href="https://leetcode.com/">Click here</a>
   <h3>Top Coder</h3>
   <img src="https://user-images.githubusercontent.com/89633235/131211489-d4c88cb8-c969-497a-b900-96ee8e70d23c.png"/>
   <p>Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients.[1][2][3] Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.</p>
   <p>To know more...</p>
   <a href="https://www.topcoder.com/">Click here</a>
+  <h3>Created by Priya Garg</h3>
   </body>
   </html>
   
